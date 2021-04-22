@@ -5,4 +5,5 @@ int main() {
   if (!car_move()) car_move();
   // should be gud enough i dont see how it can be improved
   // feel free to send in some pull requests but i dont think it can beat this
+  if (car_crash()) die();
 }
